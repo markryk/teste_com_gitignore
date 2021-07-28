@@ -1,6 +1,7 @@
 <?php
 	#Colocando essa linha de texto, para ver se o gitignore vai funcionar, se ela aparecer é pq não funcionou
 	#Testando gitignore pela 3ª vez, se essa msg aparecer é pq não funcionou
+	#Testando gitignore pela 4ª vez, se essa msg aparecer é pq não funcionou
 
 	#Mostrar os erros
 	//ini_set("display_errors", 1);
